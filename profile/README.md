@@ -21,6 +21,6 @@ A desktop application for video engineers: inspect, analyze, convert, and packag
 
 ---
 
-## Built by engineers
+## Built by video engineers
 
 Created by people passionate about video infrastructure, streaming technology, and developer tooling.

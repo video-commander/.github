@@ -25,7 +25,7 @@ A desktop application for video engineers: inspect, analyze, convert, and packag
 - **Measure** quality with VMAF and other metrics
 - **Transcode** with configurable pipelines
 - **Package & deliver** for streaming
-- **Run** jobs locally or in the cloud
+- **Playback** MP4, DASH and HLS formats with debug overlays
 
 **[Get Video Commander](https://video-commander.com)**
 

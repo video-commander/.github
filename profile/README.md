@@ -16,7 +16,6 @@ We build modern tools for inspecting, processing, and delivering video — makin
     <a href="https://github.com/alfg/video-commander/issues">Issues</a>
     <a href="https://github.com/alfg/video-commander/discussions">Discussions</a>
   </p>
-  <h2><a href="https://github.com/alfg/video-commander-releases/releases/latest">📦 Latest Release</a></h2>
 </div>
 
 A desktop application for video engineers: inspect, analyze, convert, and package media with a modern UI powered by FFmpeg and specialized tooling.
